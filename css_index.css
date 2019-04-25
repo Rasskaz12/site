@@ -1,0 +1,82 @@
+h1 {font-family: Segoe Print;
+	padding-left: 500px;
+	font-style: italic;
+	color: #CD5C5C
+}
+
+h4 {font-family: Segoe Print;
+	padding-top: 450px;
+	font-style: bold
+}
+
+header {
+	font-family: Segoe Print;
+	text-align: justify;
+	height: 220px;
+	width: 100%;
+	background-color:#FFE4C4;
+}
+
+a.logotype {
+	float: left;
+}
+
+.title {
+	padding-top: 20px;
+	padding-left: 250px;
+	color: #CD5C5C;
+}
+
+.contacts {	
+	text-align: right;
+	padding-right: 30px;
+}
+
+nav {
+	font-family: Segoe Print;
+	font-size: 30px;
+	color: #A52A2A;
+	text-align: center;
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav li {
+	display: inline;
+}
+
+nav li a {
+	font-size: 17px;
+	padding: 0px 300px 0px 0px;
+	margin: 0px 20px;
+	text-decoration: none;
+	color: #CD5C5C;
+	padding-right: 30px;
+}
+
+header section aside.right {
+	float: left;
+	padding-left: 60px;
+}
+
+section aside.center {
+	font-family: Segoe Print;
+	float: left;
+	padding-left: 60px;
+}
+
+footer {
+	font-family: Segoe Print;
+}
+
+section {
+  float: left;
+  width: 30%;
+}
+
+footer section aside.left {
+	float: left;
+	padding-left: 60px;
+}
